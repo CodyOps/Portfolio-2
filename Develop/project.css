@@ -3,3 +3,8 @@ body {
   background-size: cover;
   font-family: "Orbitron", sans-serif;
 }
+
+html,
+body {
+  height: 100%;
+}
