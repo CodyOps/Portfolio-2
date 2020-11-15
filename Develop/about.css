@@ -4,6 +4,11 @@ body {
   font-family: "Orbitron", sans-serif;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 /*Made square size for imageProfile id and added a border*/
 #imageProfile {
   width: 350px;
@@ -32,7 +37,7 @@ p {
 
 /*Added a background image and no-repeat due to background size and cover to cover whole page size*/
 
-footer {
+/* footer {
   bottom: 0;
   margin-top: 50%;
   margin-left: 3%;
@@ -44,4 +49,4 @@ footer {
   footer {
     flex-direction: column;
   }
-}
+} */
