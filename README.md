@@ -4,6 +4,8 @@ In this project, the goal was to update my portfolio page with new materials, re
 
 Link to Github Pages:
 
+https://codyops.github.io/Portfolio-2/
+
 Technologies used in projects: HTML5, CSS, Bootstrap, JavaScript, jQuery, AJAX, Third party APIs, GitHub, Visual Studio Code, Terminal and more.
 
 I hope you enjoy my portfolio!
